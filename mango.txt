@@ -1,1 +1,2 @@
-This is mango folder
+This is mango folder.
+some mangoes are added.
